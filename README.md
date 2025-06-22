@@ -1,5 +1,7 @@
 # Flashloan AMM Interface
 
+<img width="507" alt="Screenshot 2025-06-23 at 00 57 47" src="https://github.com/user-attachments/assets/e7442bdb-9bc9-4922-a9dd-d58cd32d75c8" />
+
 ## Overview
 A secure automated market maker with built-in TWAP oracle protection and flashloan-resistant design.
 
